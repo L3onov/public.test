@@ -1,1 +1,3 @@
-dir1/dir1.1/file1.1.txt export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
+dir1/dir1.1 export-ignore
